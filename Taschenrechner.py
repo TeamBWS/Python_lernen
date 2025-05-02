@@ -1,0 +1,6 @@
+zahl1 = input("Gib eine Zahl ein: ")
+zahl2 = input("Gib eine zweite Zahl ein: ")
+print("Ergebnis Addition von ", zahl1, "+", zahl2, "=", float(zahl1) + float(zahl2))
+print("Ergebnis Subratktion von ", zahl1, "-", zahl2, "=", float(zahl1) - float(zahl2))
+print("Ergebnis Multiplikation von ", zahl1, "*", zahl2, "=", float(zahl1) * float(zahl2))
+print("Ergebnis Division von ", zahl1, "/", zahl2, "=", float(zahl1) / float(zahl2))
